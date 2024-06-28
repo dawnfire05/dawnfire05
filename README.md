@@ -1,1 +1,4 @@
-**now studying flutter**
+i am currently studying...
+- nest.js
+- react
+- flutter
