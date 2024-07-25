@@ -1,24 +1,13 @@
 i am currently studying...
-- nest.js
-- react
-- flutter
+- nestjs, react, flutter
 
-# language
-- java
-- C
-- dart
-- python
-
-# fe
-- react
-
-# be
-- django
-- nestjs
-
-# app
-- flutter
-
-# tool
-- figma
-- git
+- language
+  - java, C, python
+- fe
+  - react
+- be
+  - django, nestjs
+- app
+  - flutter
+- tool
+  - figma, git, solidworks
