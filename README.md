@@ -1,7 +1,7 @@
 i am currently studying...
 - nestjs, react, flutter
 ---
-what i can do...
+what i've experienced
 - language:  java, C, python, javascript
 - fe: react
 - be: django, nestjs
