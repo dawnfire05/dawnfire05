@@ -1,6 +1,6 @@
 ## Hi
 
-You can find my works here.
+You can find my works here. I am currently building happit, a habit tracker app.
 
 ## What I've experienced...
 
@@ -30,7 +30,6 @@ You can find my works here.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF3F00?logo=solidworks&logoColor=white&style=flat-square)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-EA6600?logo=MATLAB&logoColor=white&style=flat-square)
