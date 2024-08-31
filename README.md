@@ -17,7 +17,6 @@ You can find my works here. I am currently building happit, a habit tracker app.
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
 ![django](https://img.shields.io/badge/-django-092E20?logo=django&logoColor=white&style=flat-square)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 
 
 ### Databases
